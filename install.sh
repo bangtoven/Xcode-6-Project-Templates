@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # Default the folder name to "1414 Degrees".
-folderName="1414 Degrees"
+folderName="Bangtoven"
 
 # Ensure that at most one argument has been passed in.
 if [ "$#" -eq 1 ]
